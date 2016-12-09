@@ -1,0 +1,40 @@
+*{margin: 0;
+  padding: 0;
+ }
+ body{padding: 20px;
+}
+.warp{padding: 20px;
+	  background: #eee;
+	  border: 1px solid #999;
+	  overflow: hidden;
+}	
+.logo{background: #fff;
+	  border: 1px solid #999;
+	  width: 158px;
+	  padding: 20px;
+	  position: relative;
+	  float: left;
+}
+.logo img{width: 80px;
+		  height: 80px;
+}
+.logo p{position: absolute;
+		right: 20px;
+		top: 20px;}
+.touxiang{width: 78px;
+		  background: #fff;
+		  border: 1px solid #999;
+		  padding: 20px;
+		  float: right;
+}
+.touxiang img{width: 80px;
+			  height: 80px;
+			  margin-bottom: 20px;
+}
+
+.main{padding: 20px;
+	  background: #fff;
+	  border: 1px solid #999;
+	  margin: auto 140px auto 220px;
+}		
+	  
